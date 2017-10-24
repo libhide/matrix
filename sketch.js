@@ -1,6 +1,6 @@
 var streams = [];
 var fadeInterval = 1.6;
-var symbolSize = 14;
+var symbolSize = 24;
 
 function setup() {
   createCanvas(
